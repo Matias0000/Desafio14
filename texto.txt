@@ -1,0 +1,16 @@
+Mi analisis en el desafio 
+
+CONSOLE.LOG:
+
+Al un console log antes de enviar la informacion al cliente, aumenta a casi el tiempo promedio de respuesta.
+Por eso mejor evitar dejar console  logs en produccion.
+
+
+NODE PROFILER.
+
+No puedo entender lo que estoy viendo, la mayoria de los archivos corresponden a librerias internas de node.
+
+
+DIAGRAMA DE FLAMA:
+
+Basicamnete lo mismo, casi todo lo que figura en el diagram corresponde a librerias externas. 
