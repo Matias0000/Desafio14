@@ -1,5 +1,5 @@
-import log4js from 'log4js'
-import path from 'path'
+const log4js = require ('log4js')
+const path = require ('path')
 
 log4js.configure({
    appenders: {
